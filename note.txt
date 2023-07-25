@@ -1,0 +1,11 @@
+Menampilkan hasil dari prediksi
+Membuat tampilan yang menarik
+
+
+step menjalankann
+
+pip install flask
+
+venv\Scripts\active
+set FLASK_APP=app.py
+flask run
